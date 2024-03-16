@@ -31,8 +31,8 @@ import seaborn as sns
 dt=pd.read_csv("/content/titanic_dataset.csv")
 dt
 ```
+<img width="930" alt="image" src="https://github.com/EPriyadharshini/EXNO2DS/assets/144870831/82ef2b2d-e979-4133-bcd0-31374923bca9">
 
-![Screenshot 2024-03-09 113810](https://github.com/Anusharonselva/EXNO2DS/assets/119405600/a4c59ae2-f1ac-45d7-8558-829f53ae0c99)
 ```
 dt.info()
 ```
